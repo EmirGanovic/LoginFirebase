@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19585567208",
+    "project_id": "login-test-and-registration",
+    "storage_bucket": "login-test-and-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19585567208:android:4a03e7f85b69917e06bc5d",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19585567208-om7hcg1b691tu5bbe73imahg8kbp5vkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELoaOaI_M56bxcK7LfT0Y-b6qym-YZ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19585567208-om7hcg1b691tu5bbe73imahg8kbp5vkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
